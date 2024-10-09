@@ -4,7 +4,7 @@ This project implements a sentiment analysis model to classify movie reviews as 
 
 ## Team Members
 
-- **Tanaya  Chali**
+- **Tanaya  Chari**
 - **Anup  Borker**
 - **Tanavi  Nipanicar**
 

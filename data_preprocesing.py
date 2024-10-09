@@ -2,7 +2,7 @@
 '''
 ## Team Members
 
-- **Tanaya Chali**
+- **Tanaya Chari**
 - **Anup Borker**
 - **Tanavi  Nipanicar**
 
